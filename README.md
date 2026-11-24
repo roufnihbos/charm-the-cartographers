@@ -9,7 +9,7 @@ Entry for the make.fun bounty "Charm the Cartographers: A One Day Treasure Map S
 
 ## The legend
 
-Nobody has ever been shipwrecked on the Isle of Second Thoughts. They simply land, decide it was a mistake, turn back, and then, halfway to the boat, decide it wasn't. The cartographer surveyed it twice and doubted it thrice, which is why the map is so confident about everything except north. A cache is buried under the X, beneath a dagger, and the pirate who buried it left a note asking that you dig politely.
+Nobody has ever been shipwrecked on the Isle of Second Thoughts. They simply land, decide it was a mistake, turn back, and then, halfway to the boat, decide it wasn't. The cartographer surveyed it twice and doubted it thrice, so the map is confident about everything except north. A cache is buried under the X, beneath a dagger, and the pirate who buried it left a note asking that you dig politely.
 
 ## Labeled places
 
